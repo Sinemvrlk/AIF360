@@ -15,9 +15,10 @@ The notebook uses three datasets:
 ## How to run
 
 1. Open [Assignment_4.ipynb in Google Colab](https://colab.research.google.com/github/Sinemvrlk/AIF360/blob/main/Assignment_4.ipynb).
-2. Run the installation cell first. Restart the Colab session if error is given.
-3. Run the remaining cells in order, or choose **Runtime → Run all** after installation.
-4. View the results table at the end of the notebook.
+   or open "Assignment_4.ipynb from the folder."
+3. Run the installation cell first. Restart the Colab session if error is given.
+4. Run the remaining cells in order, or choose **Runtime → Run all** after installation.
+5. View the results table at the end of the notebook.
 
 The notebook needs Python, AIF360, TensorFlow, pandas, NumPy and scikit-learn. The installation cell contains the package commands used for the experiment.
 
